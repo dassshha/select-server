@@ -1,0 +1,10 @@
+# Секретные ключи и конфиги
+.env
+node_modules/
+
+# Логи ошибок
+npm-debug.log*
+
+# Папки сборки
+dist/
+build/
